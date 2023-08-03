@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "Header-swiper",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://DimaSavchuk.github.io/Header-swiper",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /Header-swiper/"
   },
   "repository": {
     "type": "git",
